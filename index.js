@@ -1,5 +1,5 @@
 // Write your code here!
 main.remove()
-let element =
+let header =
 document.querySelector("div#header");
 header.innerHTML = "<h1>#victory</h1><h3>YOUR-NAMEis the champion";
